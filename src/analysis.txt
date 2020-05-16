@@ -1,0 +1,12 @@
+1. For each stock, compare how the classifier does when you use plain text and how it does when you include the
+financial indicators for trend - Done
+2. For each stock, compare how it does on different kinds of classfiers
+    - RandomForest - Done
+    - SVM - Done
+    - Naive Bayes - Done
+    - MultiLayerPerceptronClassifier - Try Keras if you can
+3. For each stock, compare how the classification accuracy does when you try to change the duration of trend (5 days..
+2 Months) - Done
+4. Show how accuracy varies between news sources (not enough data)
+5. Test out ngram-ranges - Done
+6. Using custom weighting factor - Failed
